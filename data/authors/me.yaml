@@ -56,13 +56,12 @@ education:
   #    icon: hero/arrow-down-tray
   - degree: MSc in Computer Science - Artificial Intelligence
     institution: University of Bari Aldo Moro, Bari, Italy
-    start: 2026-09-28
+    start: September 2026
     end: Present
   - degree: BSc in Computer Science
     institution: University of Bari Aldo Moro, Bari, Italy
-    start: 2022-09-28
-    end: 2026-07-16
-    mark: 110/110 cum Laude
+    start: September 2022
+    end: July 2026
 
 experience:
   #- role: Senior AI Research Scientist
