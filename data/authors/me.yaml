@@ -54,14 +54,15 @@ education:
   #    text: Download dissertation
   #    url: /resume.pdf
   #    icon: hero/arrow-down-tray
-  - degree: MS Computer Science - Artificial Intelligence
+  - degree: MSc in Computer Science - Artificial Intelligence
     institution: University of Bari Aldo Moro, Bari, Italy
     start: 2026-09-28
     end: Present
-  - degree: BS Computer Science
+  - degree: BSc in Computer Science
     institution: University of Bari Aldo Moro, Bari, Italy
     start: 2022-09-28
     end: 2026-07-16
+    mark: 110/110 cum Laude
 
 experience:
   #- role: Senior AI Research Scientist
