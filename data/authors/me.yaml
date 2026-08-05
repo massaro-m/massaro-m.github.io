@@ -31,7 +31,7 @@ links:
   #- icon: brands/x
   #  url: https://x.com/example
   - icon: brands/github
-    url: https://massaro-m.github.io/
+    url: https://github.com/massaro-m/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
   #- icon: academicons/google-scholar
@@ -62,6 +62,7 @@ education:
     institution: University of Bari Aldo Moro, Bari, Italy
     start: September 2022
     end: July 2026
+    summary: **Thesis Title**: Development of an Adaptive Model for Mitigating Cybersickness in VR Environments. -- **Supervision**: Prof. Michele Scalera -- Mark: 110/110 cum Laude
 
 experience:
   #- role: Senior AI Research Scientist
