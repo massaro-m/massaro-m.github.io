@@ -13,7 +13,7 @@ name:
 #  - MIEEE
 #status:
 #  icon: "☕️"
-role: CS Student
+role: ComputerScience Student
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -55,11 +55,11 @@ education:
   #    url: /resume.pdf
   #    icon: hero/arrow-down-tray
   - degree: MS Computer Science - Artificial Intelligence
-    institution: University of Bari
+    institution: University of Bari Aldo Moro, Bari, Italy
     start: 2026-09-28
     end: Present
   - degree: BS Computer Science
-    institution: University of Bari
+    institution: University of Bari Aldo Moro, Bari, Italy
     start: 2022-09-28
     end: 2026-07-16
 
@@ -75,7 +75,6 @@ experience:
   #    icon: hero/arrow-down-tray
   - role: Undergraduate Trainee
     org: STIIMA-CNR (National Research Council)
-    url: uniba.it
     start: 2026-01-08
     end: 2026-06-15
     summary: |
