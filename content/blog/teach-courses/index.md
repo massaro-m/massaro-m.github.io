@@ -36,27 +36,16 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Citation
 
-Here's an example of citing a publication using the cite shortcode:
-
-{{< cite page="/publications/preprint" view="citation" >}}
-
-You can also use the default view by omitting the view parameter:
-
-{{< cite page="/publications/conference-paper" >}}
-
 ## Video
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
 **Youtube**:
 
-    {{</* youtube D2vj0WcvH5c */>}}
-
-{{< youtube D2vj0WcvH5c >}}
-
+  
 **Bilibili**:
 
-    {{</* bilibili BV1WV4y1r7DF */>}}
+ 
 
 
 **Video file**
@@ -71,9 +60,7 @@ You can add a podcast or music to a page by placing the MP3 file in the page's f
 
     {{</* audio src="ambient-piano.mp3" */>}}
 
-Try it out:
 
-{{< audio src="ambient-piano.mp3" >}}
 
 ## Test students
 
