@@ -2,15 +2,15 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Dr. Michelangelo Massaro
+  given: Michelangelo
+  family: Massaro
+  #alternate: ''  # Example: 王伟
+  #pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+#postnominals:
+#  - PhD
+#  - MIEEE
 status:
   icon: "☕️"
 role: Senior AI Research Scientist
@@ -21,8 +21,8 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: UniBa
+    url: https://uniba.it/
 
 links:
   - icon: at-symbol
