@@ -13,7 +13,7 @@ name:
 #  - MIEEE
 #status:
 #  icon: "☕️"
-role: MSc Student in Computer Science
+role: Student in Computer Science
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -65,7 +65,7 @@ education:
     summary: |
       **Thesis Title**: Development of an Adaptive Model for Mitigating Cybersickness in VR Environments
       
-      **Supervisor**: Prof. Michele Scalera
+      **Thesis Supervisor**: Prof. Michele Scalera
       
       **Degree Date**: July 16th, 2026
       
