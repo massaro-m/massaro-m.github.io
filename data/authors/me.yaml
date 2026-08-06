@@ -15,10 +15,12 @@ name:
 #  icon: "☕️"
 role: Student in Computer Science
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Michelangelo is a CS student at University of Bari.
+  
+# Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
+# has been published in top conferences like NeurIPS and ICML, with over
+# 10,000 citations. Alex is passionate about pushing the boundaries of AI
+# while ensuring ethical development.
 
 affiliations:
   - name: Dept. of Informatics - UniBa
