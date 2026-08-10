@@ -99,8 +99,6 @@ skills:
       - label: Python
         #level: 5
       - label: Machine Learning
-
-      Supervised Learning
         #level: 4
       #- label: Cloud Computing
       #  level: 4
