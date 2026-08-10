@@ -98,8 +98,10 @@ skills:
     items:
       - label: Python
         level: 5
-      #- label: Machine Learning
-      #  level: 5
+      - label: Machine Learning
+        level: 4
+        item:
+        - label: Supervised Learning
       #- label: Cloud Computing
       #  level: 4
   #- name: Research & Communication
