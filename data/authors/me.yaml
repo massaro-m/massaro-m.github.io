@@ -97,11 +97,11 @@ skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
+        #level: 5
       - label: Machine Learning
-        level: 4
-        item:
-        - label: Supervised Learning
+
+      Supervised Learning
+        #level: 4
       #- label: Cloud Computing
       #  level: 4
   #- name: Research & Communication
