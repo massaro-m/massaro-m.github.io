@@ -97,9 +97,9 @@ skills:
   - name: Technical Skills
     items:
       - label: Python
-        #level: 5
+        level: 5
       - label: Machine Learning
-        #level: 4
+        level: 5
       #- label: Cloud Computing
       #  level: 4
   #- name: Research & Communication
