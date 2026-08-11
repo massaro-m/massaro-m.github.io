@@ -31,7 +31,7 @@ affiliations:
 links:
   - icon: at-symbol
     url: mailto:alex.johnson@example.com
-    label: E-mail Me
+    label: Email Me at **alex.johnson@example.com**
   #- icon: brands/x
   #  url: https://x.com/example
   - icon: brands/github
