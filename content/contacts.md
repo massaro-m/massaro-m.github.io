@@ -1,6 +1,5 @@
 ---
 title: Contacts
-# draft: true
 # summary: "Short teaser shown in lists"
 # date: 2026-08-01        # Published date
 # lastmod: 2026-08-11    # Updated date
@@ -19,4 +18,4 @@ toc: true            # show table of contents on the page
 #   image: ""          # cover image
 ---
 
-Hello!
+## Hello!
