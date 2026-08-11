@@ -21,7 +21,7 @@ sections:
   - block: contact-info
     content:
       title: Contact the lab
-      subtitle: We respond within 2 business days.
+      # subtitle: We respond within 2 business days.
       visit_title: Visit us
       address:
         lines:
@@ -39,14 +39,12 @@ sections:
           url: https://linkedin.com/company/hugoblox
         - icon: brands/x
           url: https://x.com/hugoblox
-      prospective:
-        title: Prospective members
-        text: Tell us about your research interests and links to prior work.
-        button:
-          text: Apply
-          url: /apply
-      show_form: true
-      form_action: https://formspree.io/f/example
+      # prospective:
+        # title: Prospective members
+        # text: Tell us about your research interests and links to prior work.
+        # button:
+          # text: Apply
+          # url: /apply
+      # show_form: true
+      # form_action: https://formspree.io/f/example
 ---
-
-# Hello!
