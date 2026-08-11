@@ -61,7 +61,7 @@ education:
   - degree: MSc in Computer Science - Artificial Intelligence
     institution: University of Bari Aldo Moro, Bari, Italy
     start: September 2026
-    end: Present
+    # end: Present
   - degree: BSc in Computer Science
     institution: University of Bari Aldo Moro, Bari, Italy
     start: September 2022
@@ -100,7 +100,6 @@ skills:
         level: 5
       - label: Machine Learning
         level: 5
-        description: Supervised
       #- label: Cloud Computing
       #  level: 4
   #- name: Research & Communication
