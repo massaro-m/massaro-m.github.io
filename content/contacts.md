@@ -8,7 +8,7 @@ date: 2026-08-01        # Published date
 # authors:
 #   - admin               # references content/authors/admin/_index.md
 #   - Jane Doe            # plain text name
-# tags: [Ownable, Docs]
+ tags: [Ownable, Docs]
 # categories: [Tutorial]
 # featured: true          # Pin to the homepage/featured 
 
@@ -19,7 +19,5 @@ toc: true            # show table of contents on the page
 # cover:
 #   image: ""          # cover image
 ---
-
-# Contacts
 
 Hello!
