@@ -17,7 +17,8 @@ toc: true            # show table of contents on the page
 # cover:
 #   image: ""          # cover image
 
-- block: contact-info
+sections:
+  - block: contact-info
   content:
     title: Contact the lab
     subtitle: We respond within 2 business days.
