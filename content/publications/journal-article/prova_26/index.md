@@ -3,9 +3,9 @@ title: "An example journal article"
 authors:
 - me
 - Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -58,18 +58,18 @@ links:
     url: http://arxiv.org/pdf/1512.04133v1
   - type: code
     url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
+  # - type: dataset
+    # url: ""
+  # - type: poster
+    # url: ""
+  # - type: project
+    # url: ""
   - type: slides
     url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+  # - type: source
+    # url: ""
+  # - type: video
+    # url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -83,12 +83,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/projects/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: ""
 ---
