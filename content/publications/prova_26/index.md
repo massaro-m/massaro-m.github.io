@@ -6,10 +6,10 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2026-07-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -53,19 +53,19 @@ featured: false
 #  ids:
 #    arxiv: 1512.04133v1
 
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
+# links:
+  # - type: pdf
+    # url: http://arxiv.org/pdf/1512.04133v1
+  # - type: code
+    # url: https://github.com/HugoBlox/kit
   # - type: dataset
     # url: ""
   # - type: poster
     # url: ""
   # - type: project
     # url: ""
-  - type: slides
-    url: https://www.slideshare.net/
+  # - type: slides
+    # url: https://www.slideshare.net/
   # - type: source
     # url: ""
   # - type: video
@@ -92,6 +92,8 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
+
+# CIAO
 
 # > [!NOTE]
 # > Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
