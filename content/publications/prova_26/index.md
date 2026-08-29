@@ -2,10 +2,10 @@
 title: "An example journal article"
 authors:
 - me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - Robert Ford
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -45,8 +45,8 @@ abstract: Lorem ipsum dolor sit amet...
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet...
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 #hugoblox:
