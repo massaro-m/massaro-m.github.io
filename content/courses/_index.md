@@ -11,15 +11,15 @@ cascade:
       show_breadcrumb: true
 
 sections:
-#  - block: collection
-#    id: courses
-#    content:
-#      title: Courses
-#      filters:
-#        tag: Course
-#        kinds:
-#          - section
-#    design:
+ - block: collection
+   id: courses
+   content:
+     title: Courses
+     filters:
+       tag: Course
+       kinds:
+         - section
+   design:
 #      view: article-grid
 #      show_read_time: false
 #      show_date: false
