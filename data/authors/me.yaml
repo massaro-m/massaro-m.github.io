@@ -102,7 +102,7 @@ skills:
           + Scientific packages (Pandas, NumPy, sklearn)
       - label: Machine Learning
         description: |
-          Supervised and Unsupervised Learning 
+          Supervised and Unsupervised Learning
       #- label: Machine Learning
       #  level: 5
       #- label: Cloud Computing
