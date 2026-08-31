@@ -98,11 +98,11 @@ skills:
     items:
       - label: Python
         #level: 5
-        #description: |
-        #  + Scientific packages (Pandas, NumPy, sklearn)
+        description: |
+          + Scientific packages (Pandas, NumPy, sklearn)
       - label: Machine Learning
-        #description: |
-        #  Supervised and Unsupervised Learning 
+        description: |
+          Supervised and Unsupervised Learning 
       #- label: Machine Learning
       #  level: 5
       #- label: Cloud Computing
