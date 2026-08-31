@@ -22,23 +22,23 @@ publication:
   volume: 1
   issue: 1
 
-peer_reviewed: true
-open_access: true
-license: CC-BY-4.0
+#peer_reviewed: true
+#open_access: true
+#license: CC-BY-4.0
 
 # Awards, honors, and recognitions. Surfaced as badges on the page and in listings.
 # Note: a Test of Time award years after publication uses an explicit `date` that differs from the page date.
-awards:
-  - name: "Test of Time Award"
-    level: winner
-    date: "2025"
-    note: "Awarded for sustained impact 10 years after publication."
-  - name: "Editor's Choice"
-    level: featured
+#awards:
+#  - name: "Test of Time Award"
+#    level: winner
+#    date: "2025"
+#    note: "Awarded for sustained impact 10 years after publication."
+#  - name: "Editor's Choice"
+#    level: featured
 
-funding:
-  - funder: "National Science Foundation"
-    grant: "NSF-1234567"
+#funding:
+#  - funder: "National Science Foundation"
+#    grant: "NSF-1234567"
 
 abstract: Lorem ipsum dolor sit amet...
 
