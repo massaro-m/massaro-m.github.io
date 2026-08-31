@@ -14,13 +14,13 @@ date: "2026-07-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-#publication_types: ["article-journal"]
+publication_types: ["article-journal"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
-#publication:
-#  name: "Journal of Source Themes"
-#  volume: 1
-#  issue: 1
+publication:
+  name: "Journal of Source Themes"
+  volume: 1
+  issue: 1
 
 #peer_reviewed: true
 #open_access: true
@@ -45,9 +45,9 @@ abstract: Lorem ipsum dolor sit amet...
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet...
 
-# tags:
-# - Source Themes
-#featured: false
+tags:
+ - Source Themes
+featured: false
 
 #hugoblox:
 #  ids:
@@ -95,10 +95,3 @@ abstract: Lorem ipsum dolor sit amet...
 
 # CIAO
 
-# > [!NOTE]
-# > Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-# > [!NOTE]
-# > Create your slides in Markdown - click the *Slides* button to check out the example.
-
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
