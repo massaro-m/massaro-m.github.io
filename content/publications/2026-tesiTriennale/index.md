@@ -51,7 +51,7 @@ abstract: |
   (ENG) VR sickness, or **cybersickness**, is a phenomenon that can occur while using virtual reality systems and involves typical symptoms of disorientation, nausea, and general discomfort. Predicting it would allow mitigation solutions to be activated. This study develops a predictive model based on *machine learning* techniques capable of estimating the level of cybersickness. Specifically, the model predicts both the current level of cybersickness and an estimate of its future value. To do this, an existing rule-based model was first implemented, based on user inputs via a controller. This model was used to generate a set of simulations that constitute the datasets on which the machine learning algorithms were trained and evaluated. The performance of three regression models was compared: Linear Regression, Random Forest, and XGBoost. Initially, they were compared only for predicting current cybersickness to select those to use for predicting future cybersickness as well. The experiments conducted show that XGBoost performs best, with an MAE of 0.02 and an RMSE of 0.03, closely followed by Random Forest, which performs slightly worse. The study highlights that it is possible to predict the level of cybersickness with a good degree of accuracy, allowing for the earlier application of mitigation strategies and improving the immersive experience for users.
 
 # Summary. An optional shortened abstract.
-summary: In collaboration with **STIIMA** Institute of CNR (National Research Council).
+summary: In collaboration with STIIMA Institute of CNR (National Research Council).
 
 tags:
  - Virtual Reality
@@ -106,4 +106,6 @@ links: []
 # slides: ""
 ---
 
-In collaboration with [**STIIMA** Institute](www.stiima.cnr.it) of CNR (National Research Council).
+In collaboration with [**STIIMA** Institute](https://www.stiima.cnr.it/) of CNR (National Research Council).
+
+**Relatore**: Prof. Michele Scalera
