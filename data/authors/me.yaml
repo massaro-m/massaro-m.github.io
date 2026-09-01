@@ -99,7 +99,7 @@ skills:
       - label: Python
         #level: 5
         description: |
-          including Scientific packages (Pandas, NumPy, sklearn)
+          General programming and Scientific packages (Pandas, NumPy, Matplotlib, sklearn)
       - label: Machine Learning
         description: |
           Supervised and Unsupervised Learning
