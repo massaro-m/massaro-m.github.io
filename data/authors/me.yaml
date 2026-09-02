@@ -74,6 +74,10 @@ education:
       **Degree Date**: July 16th, 2026
       
       **Mark**: 110/110 cum Laude
+    button:
+      text: Read Abstract
+      url: /publications/2026-tesitriennale/
+      icon: hero/arrow-down-tray
       
 
 experience:
