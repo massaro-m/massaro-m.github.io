@@ -1,5 +1,5 @@
 ---
-title: Contacts
+#title: Contacts
 # summary: "Short teaser shown in lists"
 # date: 2026-08-01        # Published date
 # lastmod: 2026-08-11    # Updated date
@@ -11,13 +11,14 @@ title: Contacts
 # categories: [Tutorial]
 # featured: true          # Pin to the homepage/featured 
 share: false          # show sharing buttons
+draft: true
 # commentable: true    # enable comments (if configured in params.yaml)
-toc: true            # show table of contents on the page
+toc: false            # show table of contents on the page
 
 # cover:
 #   image: ""          # cover image
 
-# title: 'Experience'
+title: Contacts
 date: 2026-09-07
 type: landing
 
@@ -28,9 +29,10 @@ sections:
       # subtitle: Get in touch with our research team
       visit_title: You can find me here. #Visit Our Lab
       # connect_title: Connect With Us
+      
       address:
         lines:
-          - LAB Laboratory
+          # - LAB Laboratory
           - Department of Computer Science
           - University of Bari
           - Campus Universitario
@@ -39,8 +41,9 @@ sections:
       #office_hours:
       #  - "Monday - Friday: 9:00 AM - 5:00 PM"
       #  - "Lab Meetings: Fridays 2:00 PM"
+      
       email: lab@example.edu
-      phone: "+1 (555) 123-4567"
+      # phone: "+1 (555) 123-4567"
       social:
         - icon: brands/x
           url: https://x.com/SmithLabResearch
@@ -48,6 +51,7 @@ sections:
           url: https://linkedin.com/company/smith-lab
         - icon: brands/github
           url: https://github.com/massaro-m
+      
       #prospective:
       #  title: Prospective Members
       #  text: Interested in joining our lab? We're looking for motivated researchers.
@@ -61,5 +65,3 @@ sections:
       spacing:
         padding: ["3rem", 0, "3rem", 0]
 ---
-
-## Hello!
