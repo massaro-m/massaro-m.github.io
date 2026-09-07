@@ -26,7 +26,7 @@ sections:
     content:
       title: Contact Me
       # subtitle: Get in touch with our research team
-      # visit_title: Visit Our Lab
+      visit_title: You can find me here. #Visit Our Lab
       # connect_title: Connect With Us
       address:
         lines:
@@ -47,14 +47,14 @@ sections:
         - icon: brands/linkedin
           url: https://linkedin.com/company/smith-lab
         - icon: brands/github
-          url: https://github.com/smith-lab
+          url: https://github.com/massaro-m
       #prospective:
       #  title: Prospective Members
       #  text: Interested in joining our lab? We're looking for motivated researchers.
       #  button:
       #    text: View Open Positions
       #    url: /opportunities
-      map_url: https://maps.google.com/?q=University+of+Excellence
+      map_url: https://maps.app.goo.gl/RZMzksAfciUWJ3j77
       #show_form: false
     design:
       css_class: "bg-gray-50 dark:bg-gray-900"
